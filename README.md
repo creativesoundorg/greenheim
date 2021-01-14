@@ -20,3 +20,7 @@ https://facebook.com/Greenheim
 Greenheim beu Youtube:
 
 https://www.youtube.com/c/BuylocalEuDeutschland/about
+
+Andere Projekte:
+
+https://github.com/creativesoundorg/teeparadies
