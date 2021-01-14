@@ -23,4 +23,4 @@ https://www.youtube.com/c/BuylocalEuDeutschland/about
 
 Andere Projekte:
 
-https://github.com/creativesoundorg/teeparadies
+https://github.com/creativesoundorg/daajob-de
